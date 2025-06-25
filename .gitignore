@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+*.sqlite3
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/
+*.log
+*.xlsx

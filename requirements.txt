@@ -1,0 +1,7 @@
+pandas
+numpy
+pygwalker
+scikit-learn
+scipy
+statsmodels
+openpyxl
